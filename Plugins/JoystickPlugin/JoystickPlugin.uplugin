@@ -6,7 +6,7 @@
 	"VersionName" : "0.2.4",
 	"CreatedBy" : "Ikarus76",
 	"CreatedByURL" : "http://sambabyte.net",
-	"EngineVersion" : "4.5.0",
+	"EngineVersion" : "4.9.0",
 	"Description" : "Unofficial plugin for Joystick Controllers",
 	"Category" : "Input.Controller",
 	
